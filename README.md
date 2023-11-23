@@ -1,4 +1,4 @@
-# leaflet-thematic-mapping
+# Thematic webmapping with leaflet.js and public data APIs
 Examples for thematic maps with leaflet.js
 
 Thematic maps which
